@@ -1,1 +1,1 @@
-# restheart-docs
+# sphinx-markdown-template
