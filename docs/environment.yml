@@ -1,6 +1,6 @@
 name: emmecilabs
 dependencies:
-  - python=3.5
+  - python=3.7
   - sphinx_rtd_theme
   - pip:
     - sphinx==1.5.6
